@@ -1,0 +1,3 @@
+--Divine Shield cast on 30% HP. On spawn only Shadow form
+
+UPDATE `creature_template_addon` SET auras='41408' WHERE entry=21838;
